@@ -31,14 +31,6 @@ This project analyzes health graduate employment and education outcomes in Irela
   - T-Test found gender-based differences
   - Chi-Square found no significant association between gender and outcome
 
-## Visual Examples
-*(Insert saved plots here as PNGs)*
-
-## How to Run
-```bash
-pip install pandas matplotlib seaborn scipy
-python src/health_graduate_outcomes_analysis.py
-```
 
 ## Author
-Ilham Oussanna – [LinkedIn or Portfolio link]
+Ilham Oussanna 
